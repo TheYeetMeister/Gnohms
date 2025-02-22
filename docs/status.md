@@ -2,6 +2,7 @@
 layout: default
 title: Status
 ---
+## Link to Video demonstration
 [![Link to video](https://img.youtube.com/vi/-teSn9YUOEM/0.jpg)](https://www.youtube.com/watch?v=-teSn9YUOEM)
 
 ## Project and Summary
