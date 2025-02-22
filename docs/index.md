@@ -11,7 +11,7 @@ This is our project website for CS 175 (W25) - Project in Artifical Intelligence
 
 ## Screenshots of our work:
 
-[!Picture of Work]["IMG_1053.PNG"]
-[!Picture of Work]["IMG_1050.JPG"]
-[!Picture of Work]["IMG_1049.JPG"]
-[!Picture of Work]["IMG_1046.JPG"]
+![Picture of Work]["IMG_1053.PNG"]
+![Picture of Work]["IMG_1050.JPG"]
+![Picture of Work]["IMG_1049.JPG"]
+![Picture of Work]["IMG_1046.JPG"]
