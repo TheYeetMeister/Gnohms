@@ -2,11 +2,7 @@
 layout: default
 title: Status
 ---
-<<<<<<< HEAD
 [![Link to video](https://img.youtube.com/vi/-teSn9YUOEM/0.jpg)](https://www.youtube.com/watch?v=-teSn9YUOEM)
-=======
-![Link to video](https://www.youtube.com/watch?v=-teSn9YUOEM)
->>>>>>> ce87f0df88dd0f018d0c316c17f318423dbb2718
 
 ## Project and Summary
 Our project is a duckiebot autonomously driving on a Duckietown environment. We are using Unreal Engine as the environment and we are using reinforcement learning algorithms to maximize the accuracy of actions such that our duckiebot can move around the environment without hitting the outside of the track.
