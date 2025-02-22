@@ -3,6 +3,8 @@ layout: default
 title: Status
 ---
 ## Project and Summary
+Our project is a duckiebot autonomously driving on a Duckietown environment. We are using Unreal Engine as the environment and we are using reinforcement learning algorithms to maximize the accuracy of actions such that our duckiebot can move around the environment without hitting the outside of the track.
+
 The main idea of our project is to find methods and algorithms to train a duckiebot to drive around the Duckietown track from Unreal Engine such that it doesn’t go out of bounds. The environment consists of a track designed as a lap track with yellow dash lines to indicate a road. Since the environment was rendered from an in-person duckietown track, the outside of the track consists of the room of the duckietown track.
 
 
