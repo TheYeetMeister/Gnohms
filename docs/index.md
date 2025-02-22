@@ -14,7 +14,7 @@ Our project focuses on utilizing and creating a working self-driving AI model us
 
 ## Screenshots of our work:
 
-![Picture of Work](.././docs/img/IMG_1053.PNG)
-![Picture of Work](.././docs/img/IMG_1050.JPG)
-![Picture of Work](.././docs/img/IMG_1049.JPG)
-![Picture of Work](.././docs/img/IMG_1046.JPG)
+![Picture of Work](/docs/img/IMG_1053.PNG)
+![Picture of Work](/docs/img/IMG_1050.JPG)
+![Picture of Work](/docs/img/IMG_1049.JPG)
+![Picture of Work](/docs/img/IMG_1046.JPG)
