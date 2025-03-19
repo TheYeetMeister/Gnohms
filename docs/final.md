@@ -8,6 +8,7 @@ The goal is to minimize number of obstacles hit by the duckie and for the duckie
 
 
 ## Approaches
+In this project, we evaluated both baseline and advanced approaches with a focus on transitioning from an old policy consisting of MLP and CNN to a new policy with MLP only. The old policy leverages the CNN for processing raw image data and MLP for decision making of all the parameters involved in the Duckietown environment like velocity, position, yaw, and etc, which was a complex architecture which has resulted in overfitting. To compare the approaches abov, we tracked training progress and performance using TensorBoard, visualizing metrics such as ep_rew_mean and trajectory of the model's learning. In the CNN of our old policy, we tested with ResNet for feature extraction, but soon realized that it was overfitting. 
 
 ## Evaluation
 
