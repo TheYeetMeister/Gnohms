@@ -15,7 +15,7 @@ In this project, we evaluated both baseline and advanced approaches with a focus
 ## References
 - https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html -> PPO algorithm
 - Python Libraries
--- Pytorch
+-- --Pytorch
 
 ## AI Tool Usage
 Tensorboard was used to visualize reports of trained models and determine our next steps.
