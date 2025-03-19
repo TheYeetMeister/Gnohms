@@ -14,7 +14,6 @@ In this project, we evaluated both baseline and advanced approaches with a focus
 
 ## References
 - https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html -> PPO algorithm
-<br>
 - https://pytorch.org/docs/stable/nn.html -> neural network module from Pytorch
 
 ## AI Tool Usage
