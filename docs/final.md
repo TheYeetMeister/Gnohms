@@ -19,6 +19,8 @@ For the initial policy, we used the default hyperparamateres and trained for 1 m
 The following results are from Tensorboard and the model predicting
 
 Insert Screenshots Here
+![Picture of Work](/img/broken_chart.png)
+![Picture of Work](/img/broken-initial.gif)
 
 We noticed that the ep_rew_mean was decreasing over time instead of improving or stabilizing, which we did not want. 
 
@@ -41,6 +43,8 @@ After 1 million timesteps on the new configurations, the results are as follows:
 * Model can navigate for 10 seconds until hitting bound
 
 Screenshots here
+![Picture of Work](/img/mlp_only_rewards.png)
+![Picture of Work](/img/working.gif)
 
 Not only did our model improve statistically, our model was able to move at certain spots in a straight line and turn when needed. However, our model needed more training and more control. Entropy coefficient decay and learning rate decay were our next steps followed by increasing the episode threshold to 1000.
 
