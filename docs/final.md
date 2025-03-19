@@ -3,6 +3,11 @@ layout: default
 Title: Final Report
 ---
 
+## Link to Final Video
+
+[![Link to video](https://i.ytimg.com/vi/ixp9VYDGcvw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBUgRCh_MA8=&amp;rs=AOn4CLAGl0jOVorfGX7EvX70XxSusD2gwQ)](https://www.youtube.com/watch?v=ixp9VYDGcvw)
+
+
 ## Project Summary
 The goal is to minimize number of obstacles hit by the duckie and for the duckie having the ability to traverse the terrain smoothly. We will be using DuckieTown's environments, agents, and variables to implement our Algorithm. The input of the project will be data from the cameras or sensors within the environment to traverse the terrain effectively and the output would be the action that is taken by the agent, which is displayed in first-person and will move based on model's output. This navigation system has many applications to other products like zotbots, lidar sensors, radar detection cameras, and etc. 
 
@@ -18,7 +23,8 @@ For the initial policy, we used the default hyperparamateres and trained for 1 m
 
 The following results are from Tensorboard and the model predicting
 
-Insert Screenshots Here
+<br />
+
 ![Picture of Work](/img/broken_chart.png)
 ![Picture of Work](/img/broken-initial.gif)
 
@@ -42,7 +48,8 @@ After 1 million timesteps on the new configurations, the results are as follows:
 * No overfitting
 * Model can navigate for 10 seconds until hitting bound
 
-Screenshots here
+<br />
+
 ![Picture of Work](/img/mlp_only_rewards.png)
 ![Picture of Work](/img/working.gif)
 
